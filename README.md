@@ -1,2 +1,2 @@
-# STM32_PID_BLDC_controller
-STM32 PID BLDC Controller Project
+# PID_BLDC_controller
+PID BLDC Controller Project
