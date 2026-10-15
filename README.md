@@ -1,2 +1,2 @@
-# PID_BLDC_controller
-PID BLDC Controller Project
+# PID_DC_controller
+PID DC Controller Project
